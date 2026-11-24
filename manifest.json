@@ -1,0 +1,40 @@
+{
+  "id": "./",
+  "name": "ALMOHANDIS - SYSTEMS | Digital Business Ecosystem",
+  "short_name": "ALMOHANDIS",
+  "description": "ALMOHANDIS - SYSTEMS | حلول رقمية ومشروعات احترافية من الفكرة إلى الإطلاق",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080c13",
+  "theme_color": "#e8c779",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
